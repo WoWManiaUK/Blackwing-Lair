@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: 'Important Note: Pleqse use this template when you create an issue'
+about: 'Important Note: Please use this template when you create an issue'
 title: ''
 labels: ''
 assignees: ''
