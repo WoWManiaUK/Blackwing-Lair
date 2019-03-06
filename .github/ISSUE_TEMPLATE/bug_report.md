@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: 'Important Note: This is only for in-game issues.'
+about: 'Important Note: Pleqse use this template when you create an issue'
 title: ''
 labels: ''
 assignees: ''
