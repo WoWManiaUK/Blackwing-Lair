@@ -11,7 +11,7 @@ assignees: ''
 
 from WoWHead or our Armory
 
-**What is:**
+**What is happening:**
 
 
 
