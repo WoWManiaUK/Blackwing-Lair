@@ -1,5 +1,6 @@
 # Blackwing-Lair
-![](http://i.imgur.com/n2btoyI.png)
+![](https://imgur.com/yG0f6qT.png)
+![](https://imgur.com/TULGA3f.png)
 
 Welcome to the WoW-Mania's Wiki!
 
