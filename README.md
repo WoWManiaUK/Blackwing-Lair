@@ -1,5 +1,4 @@
 # Blackwing-Lair
-![](https://imgur.com/yG0f6qT.png)
 ![](https://imgur.com/TULGA3f.png)
 
 Welcome to the WoW-Reign's Wiki!
