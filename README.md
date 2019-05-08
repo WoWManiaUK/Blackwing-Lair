@@ -1,6 +1,8 @@
 # Blackwing-Lair
 ![](https://imgur.com/TULGA3f.png)
 
+[![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/wowmaniauk/blackwing-lair.svg)](http://isitmaintained.com/project/wowmaniauk/blackwing-lair "Average time to resolve an issue")
+
 Welcome to the WoW-Reign's Wiki!
 
 * [Intro](https://github.com/WoWManiaUK/Blackwing-Lair/wiki/Intro)
