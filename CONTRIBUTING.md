@@ -1,5 +1,5 @@
 ## READ FIRST!
-This is a simple guideline on how to report an issue in a way that it makes it easier for us to reproduce and fix.
+This is a simple guideline on how to report an issue in a way that it makes it easier for you and us to reproduce and fix.
 
 ### Before you open a new Bug Report you need to check:
 * If there is already an open report for your issue.
